@@ -16,6 +16,10 @@ To comprehensively track and analyze online sales data for Wire Cart, aiming to 
 
 - Step 5 : Analysis and interpretation of results.
 
+**Dashboard Design**
+  
+  ![Wirecart Ecommerce_page-0001](https://github.com/Sagarparkhe/Ecommerce-Sales-Analysis-Dashboard/assets/171353864/8f914692-c60c-4046-88f1-c26ffde08be0)
+
 **Key Features**
 
 (1) Interactive Dashboard Creation: User-friendly interface for effective sales data analysis.
