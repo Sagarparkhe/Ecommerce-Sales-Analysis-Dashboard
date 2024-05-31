@@ -5,17 +5,26 @@ This project involves a comprehensive analysis of Wire Cart's e-commerce sales d
 
 **Key Features**
 Interactive Dashboard: User-friendly interface for effective sales data analysis.
+
 Advanced Drill-Downs: Detailed analysis with customized filters and slicers.
+
 Data Connections and Calculations: Connected and joined tables, performed calculations for insightful visualizations.
+
 Diverse Visualizations: Includes bar charts, pie charts, donut charts, cluster bar charts, scatter plots, line charts, area charts, and map slicers.
 
 **Skills and Tools Utilized**
 Data Integration and Management
+
 Parameterization
+
 Business Intelligence Tools
+
 Dashboard Design
+
 Problem Solving
+
 Data Analysis and Visualization
+
 Microsoft Power BI
 
 **Learning Outcomes**
