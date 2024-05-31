@@ -2,7 +2,7 @@
 
 **Problem Statement**
 
-To track and analyze online sales data for Wire Cart, providing actionable insights into sales performance, customer behavior, and product trends.
+To comprehensively track and analyze online sales data for Wire Cart, aiming to provide detailed, actionable insights into various aspects of sales performance, customer behavior, and product trends. The objective is to enhance strategic decision-making by identifying patterns and trends in sales data, understanding customer purchasing behaviors, and highlighting top-performing products. This project seeks to create a dynamic and interactive dashboard that empowers stakeholders with real-time data visualization and facilitates informed business strategies to drive growth and improve overall sales effectiveness.
 
 **Steps Followed**
 
