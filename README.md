@@ -6,42 +6,41 @@ To track and analyze online sales data for Wire Cart, providing actionable insig
 
 **Steps Followed**
 
-Data collection and preparation.
+- Step 1 : Data collection and preparation.
 
-Data integration and management.
+- Step 2 : Data integration and management.
 
-Dashboard design and visualization.
+- Step 3 : Dashboard design and visualization.
 
-Implementation of interactive features.
+- Step 4 : Implementation of interactive features.
 
-Analysis and interpretation of results.
+- Step 5 : Analysis and interpretation of results.
 
 **Key Features**
 
-Interactive Dashboard Creation: User-friendly interface for effective sales data analysis.
+(1) Interactive Dashboard Creation: User-friendly interface for effective sales data analysis.
 
-Advanced Drill-Downs: Complex parameters for detailed analysis with customized filters and slicers.
+(2) Advanced Drill-Downs: Complex parameters for detailed analysis with customized filters and slicers.
 
-Data Connections and Calculations: Established connections, joined tables, and performed calculations for insightful visualizations.
+(3) Data Connections and Calculations: Established connections, joined tables, and performed calculations for insightful visualizations.
 
-Diverse Visualizations: Bar charts, pie charts, donut charts, cluster bar charts, scatter plots, line charts, area charts, and map slicers.
+(4) Diverse Visualizations: Bar charts, pie charts, donut charts, cluster bar charts, scatter plots, line charts, area charts, and map slicers.
 
 **Skills and Tools Utilized**
 
-Data Integration and Management
+(1) Data Integration and Management
 
+(2) Parameterization
 
-Parameterization
+(3) Business Intelligence Tools
 
-Business Intelligence Tools
+(4) Dashboard Design
 
-Dashboard Design
+(5) Problem Solving
 
-Problem Solving
+(6) Data Analysis and Visualization
 
-Data Analysis and Visualization
-
-Microsoft Power BI
+(7) Microsoft Power BI
 
 **Learning Outcomes**
 
