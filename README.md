@@ -1,6 +1,4 @@
-**Wire Cart E-commerce Sale Analysis**
-
-Dashboard Link: [Insert Dashboard Link Here]
+# Wire Cart E-commerce Sale Analysis
 
 **Problem Statement**
 
