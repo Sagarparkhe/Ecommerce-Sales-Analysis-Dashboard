@@ -1,4 +1,4 @@
-# Wire Cart Ecommerce Sale Analysis
+# Wire Cart Ecommerce Sales Analysis
 
 **Problem Statement**
 
